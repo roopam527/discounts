@@ -11,6 +11,9 @@
     margin: 0;
     padding: 0 ;
     font-family: 'Kavivanar', cursive;
+    @media (max-width:1000px) {
+       font-size: 10px;
+    }
 }
 h1{
     font-weight: 900 !important;
